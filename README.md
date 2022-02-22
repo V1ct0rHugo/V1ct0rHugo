@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @V1ct0rHugo
-- 👀 I’m interested in Python, javaScript, Unreal Engine and more!!
-- 🌱 I’m currently learning Python and Packet Tracer
+- 👋 Hello, I’m @V1ct0rHugo
+- 👀 I’m interested in PHP, Python, JavaScript, Unreal Engine, CodeIgniter, AngularJS and more!!
+- 🌱 I’m currently studiyng Python, Packet Tracer, Angular JS and SQL.
 - 💞️ I’m looking to collaborate on diferent types of projects in order to aquire more experience
-- 📫 How to reach me e-mail: victorhugo.hp@hotmail.com linkedin: www.linkedin.com/in/@victorhcp 
+- 📫 How to reach my e-mail: victorhugo.hp@hotmail.com; My linkedin: www.linkedin.com/in/@victorhcp 
 
 
 <!---
