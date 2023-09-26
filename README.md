@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**V1ct0rHugo/V1ct0rHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Victor Hugo (V1ct0rHugo)** é ✨ _Analista de Sistemas_ ✨ em formação; apaixonado por games de estratégia e hackn'slash; entusiasta por tecnologia e tecnologias aplicadas à educação.
 
 Here are some ideas to get you started:
 
